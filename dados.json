@@ -1,0 +1,15 @@
+
+[
+    {
+    "porta-com": "COM3",
+    "pin-base": 7,
+    "pin-horizontal": 8,
+    "pin-vertical": 9,
+    "pin-garra": 10,
+    "angInicial-base": 90,
+    "angInicial-horizontal": 37,
+    "angInicial-vertical": 37,
+    "angInicial-garra": 0
+    }
+]
+

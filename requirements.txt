@@ -1,0 +1,6 @@
+numpy==1.26.4
+opencv-python==4.9.0.80
+pyFirmata==1.1.0
+pyserial==3.5
+pyinstaller
+
