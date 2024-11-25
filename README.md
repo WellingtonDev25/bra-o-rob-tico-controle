@@ -1,3 +1,5 @@
+Sistema para controle do braço robótico 4 motores
+
 Python 3.9.4
 Instalar Pyfirmata Standard no arduno.
 
